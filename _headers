@@ -1,7 +1,0 @@
-/atualizacao/versao.json
-  Cache-Control: no-cache, no-store, must-revalidate
-  Access-Control-Allow-Origin: *
-/atualizacao/*.js
-  Cache-Control: no-cache
-/atualizacao/*.json
-  Cache-Control: no-cache
